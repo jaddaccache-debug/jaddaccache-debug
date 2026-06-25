@@ -1,24 +1,29 @@
 # Jad Daccache
 
-Senior Project Manager focused on digital execution, AI-enabled workflows, UX/UI delivery, growth systems, and operational scale.
+Senior Project Manager and marketing strategist focused on digital execution, brand strategy, AI-enabled workflows, UX/UI delivery, growth systems, and operational scale.
 
-I build and manage digital products across web, AI, branding, marketing, automation, and business operations. My work sits between strategy and execution: turning unclear business problems into structured delivery systems, measurable roadmaps, and production-ready outputs.
+I build and manage digital products, marketing ecosystems, and brand-led growth initiatives across web, AI, UX/UI, research, strategy, campaigns, automation, and business operations. My work sits between strategy and execution: turning unclear business problems into structured marketing plans, brand strategies, growth roadmaps, measurable delivery systems, and production-ready outputs.
 
 ## Focus Areas
 
 - Digital project leadership
+- Marketing strategy, planning, and execution
+- Brand strategy, positioning, messaging, and identity systems
+- Market research, audience insight, competitive analysis, and data-led decision-making
 - AI-assisted delivery workflows
 - Web, UX/UI, and product execution
-- Growth systems and conversion funnels
-- Marketing operations and campaign infrastructure
+- Growth systems, lead generation, conversion funnels, and CRM alignment
+- Campaign architecture, content direction, and performance optimization
 - Sponsorship, partnerships, and stakeholder coordination
-- Automation, CRM, and scalable operating models
+- Automation, reporting, and scalable operating models
 
 ## Current Direction
 
-I am building public, reusable tools and operating systems for teams that need faster execution without losing structure:
+I am building public, reusable tools and operating systems for teams that need sharper strategy and faster execution without losing structure:
 
 - sponsorship pipeline systems
+- marketing planning frameworks
+- brand strategy and positioning systems
 - admissions and lead-conversion workflows
 - AI-assisted project management templates
 - open-source delivery playbooks
@@ -35,7 +40,9 @@ I am building public, reusable tools and operating systems for teams that need f
 
 ## Working Principles
 
+- strategy before execution
 - execution over noise
+- clear positioning
 - clean documentation
 - measurable outcomes
 - scalable systems
